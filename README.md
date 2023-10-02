@@ -4,6 +4,8 @@
 <h4 style="margin: 0;">My journey in programming began at the age of 13 with HTML and VBScript. During my pursuit of a CS degree, I delved into Java and Android Development. Then, in 2015, I got a surprising opportunity to join an iOS team, despite having no prior experience with Apple products. Initially hesitant, I chose to embrace this new path with an open mind. Little did I know, this decision would be a game-changer. Exploring the world of Apple, I was captivated by iPhones, Xcode, Swift (though not so much by Objective-C), and the animations which got me really into iOS development which is what I’ve been focusing on ever since.</h4>
 </div>
 
+<a href="https://stackexchange.com/users/8848229"><img src="https://stackexchange.com/users/flair/8848229.png" width="208" height="58" alt="profile for Agent Smith on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Agent Smith on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+
 # 💻 Tech Stack:
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=for-the-badge&logo=apple&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
 
@@ -76,6 +78,7 @@ Primary Tech Stack: SwiftUI, Swift, async/await, Combine, MVVM, Firebase, Django
 <a href="https://instagram.com/nsrajat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nsrajat" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Github Stats</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajatkj&show_icons=true&locale=en&layout=compact" alt="rajatkj" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajatkj&show_icons=true&locale=en" alt="rajatkj" /></p>
