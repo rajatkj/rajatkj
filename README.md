@@ -74,14 +74,9 @@ Primary Tech Stack: SwiftUI, Swift, async/await, Combine, MVVM, Firebase, Django
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/agent-smith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="agent-smith" height="30" width="40" /></a>
-<a href="https://instagram.com/nsrajat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nsrajat" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/i-rajat-kumar" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="nsrajat" /></a>
+<a href="https://instagram.com/nsrajat" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="nsrajat" /></a>
 </p>
-
-<h3 align="left">Github Stats</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajatkj&show_icons=true&locale=en&layout=compact" alt="rajatkj" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajatkj&show_icons=true&locale=en" alt="rajatkj" /></p>
 
 
 ### 😂 Random Dev Meme
