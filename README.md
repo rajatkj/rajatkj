@@ -6,6 +6,10 @@
 
 <a href="https://stackexchange.com/users/8848229"><img src="https://stackexchange.com/users/flair/8848229.png" width="208" height="58" alt="profile for Agent Smith on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Agent Smith on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
+# Articles
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nsrajat/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nsrajat/0" alt="Recent Article 0"> 
+
+
 # 💻 Tech Stack:
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=for-the-badge&logo=apple&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
 
