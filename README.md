@@ -7,8 +7,7 @@
 <a href="https://stackexchange.com/users/8848229"><img src="https://stackexchange.com/users/flair/8848229.png" width="208" height="58" alt="profile for Agent Smith on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Agent Smith on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 # Articles:
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nsrajat/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nsrajat/0" alt="Recent Article 0"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nsrajat/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nsrajat/1" alt="Recent Article 1"> 
+<a target="_blank" href="https://medium.com/@nsrajat"><img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=@nsrajat&limit=2"/> 
 
 
 # 💻 Tech Stack:
