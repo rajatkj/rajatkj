@@ -7,7 +7,8 @@
 <a href="https://stackexchange.com/users/8848229"><img src="https://stackexchange.com/users/flair/8848229.png" width="208" height="58" alt="profile for Agent Smith on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Agent Smith on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 # Articles:
-<a target="_blank" href="https://medium.com/@nsrajat"><img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=@nsrajat&limit=2"/> 
+<a target="_blank" href="https://medium.com/@nsrajat"><img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=@nsrajat&limit=2"/></a>
+
 
 
 # 💻 Tech Stack:
@@ -23,7 +24,8 @@
         <li>Coordinated with other iOS devs in maintaining the architecture (MVVM, Router, SOLID principles) and unit testing best practices which improved iOS test coverage, reducing regressions and increasing stability of the app.</li>
         <li>Worked closely with the DevOps team and played a key role in maintaining and upgrading CI/CD pipelines. Supported the Python Backend team by adding new features and resolving issues.</li>
         <li>Proactively wrote technical blog posts covering topics relating to iOS development, WWDC providing insights to peers and the developer community. Wrote Requirements and Impact analysis documentation providing a better picture for the project team.</li>
-        <a href="https://hedgehoglab.com/how-to-get-started-with-uicollectionviewcompositional-layout/" target="_blank">Read here</a>
+        <a href="https://hedgehoglab.com/how-to-get-started-with-uicollectionviewcompositional-layout/" target="_blank" >
+          <img src="https://github.com/rajatkj/rajatkj/assets/14157753/b3ac99d6-0522-46eb-bf9d-b80ac447c787" style="width: 10%; height: 10%;"> </a>
         <li>Engaged actively in Agile software development methodologies, including discovery, sprint planning, estimation, and task prioritisation.</li>
     </ul>
 Primary Tech Stack: SwiftUI, Swift, async/await, Combine, MVVM, Firebase, Django, Python.
