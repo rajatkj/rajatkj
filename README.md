@@ -4,7 +4,7 @@
 <h4 style="margin: 0;">My journey in programming began at the age of 13 with HTML and VBScript. During my pursuit of a CS degree, I delved into Java and Android Development. Then, in 2015, I got a surprising opportunity to join an iOS team, despite having no prior experience with Apple products. Initially hesitant, I chose to embrace this new path with an open mind. Little did I know, this decision would be a game-changer. Exploring the world of Apple, I was captivated by iPhones, Xcode, Swift (though not so much by Objective-C), and the animations which got me really into iOS development which is what I’ve been focusing on ever since.</h4>
 </div>
 
-<a href="https://stackexchange.com/users/8848229"><img src="https://stackexchange.com/users/flair/8848229.png" width="208" height="58" alt="profile for Agent Smith on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Agent Smith on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+<a href="https://stackoverflow.com/users/6608371/agent-smith"><img src="https://stackoverflow.com/users/flair/6608371.png?theme=dark" width="208" height="58" alt="profile for Agent Smith at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Agent Smith at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 # Articles:
 <a target="_blank" href="https://medium.com/@nsrajat"><img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=@nsrajat&limit=2"/></a>
