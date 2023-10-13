@@ -25,7 +25,7 @@
         <li>Worked closely with the DevOps team and played a key role in maintaining and upgrading CI/CD pipelines. Supported the Python Backend team by adding new features and resolving issues.</li>
         <li>Proactively wrote technical blog posts covering topics relating to iOS development, WWDC providing insights to peers and the developer community. Wrote Requirements and Impact analysis documentation providing a better picture for the project team.</li>
         <a href="https://hedgehoglab.com/how-to-get-started-with-uicollectionviewcompositional-layout/" target="_blank" >
-          <img src="https://github.com/rajatkj/rajatkj/assets/14157753/b3ac99d6-0522-46eb-bf9d-b80ac447c787" style="width: 10%; height: 10%;"> </a>
+          <img src="https://github.com/rajatkj/rajatkj/assets/14157753/2513873f-1d3c-46ff-a328-5a3ef1dfaa6e" style="width: 40%; height: 30%;"> </a>
         <li>Engaged actively in Agile software development methodologies, including discovery, sprint planning, estimation, and task prioritisation.</li>
     </ul>
 Primary Tech Stack: SwiftUI, Swift, async/await, Combine, MVVM, Firebase, Django, Python.
