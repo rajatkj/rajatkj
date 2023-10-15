@@ -8,7 +8,7 @@
 <a href="https://stackoverflow.com/users/6608371/agent-smith"><img src="https://stackoverflow.com/users/flair/6608371.png?theme=dark" width="208" height="58" alt="profile for Agent Smith at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Agent Smith at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 # Leetcode: 
-![Leetcode Stats](https://leetcard.jacoblin.cool/user1212Co?ext=activity)
+![Leetcode Stats](https://leetcard.jacoblin.cool/nsrajat?ext=activity)
 
 # Articles:
 <a target="_blank" href="https://medium.com/@nsrajat"><img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=@nsrajat&limit=2"/></a>
